@@ -6,7 +6,7 @@ TweakXL port of [Unlocked Attachments](https://www.nexusmods.com/cyberpunk2077/m
 
 Modded             |  Vanilla
 :-------------------------:|:-------------------------:
-![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6266/6266-1667497827-32453378.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6266/6266-1667497837-1243981035.jpeg) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6266/6266-1667497940-834488864.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6266/6266-1667497956-1487573827.jpeg)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/6266/6266-1667497827-32453378.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/6266/6266-1667497837-1243981035.jpeg) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/6266/6266-1667497940-834488864.jpeg) ![](https://staticdelivery.nexusmods.com/mods/3333/images/6266/6266-1667497956-1487573827.jpeg)
 
 ## Mod page on Nexus Mods
 
